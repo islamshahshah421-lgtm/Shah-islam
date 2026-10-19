@@ -1,0 +1,6 @@
+{
+  "name": "Dukaan",
+  "description": "A clean and simple shopping app featuring product catalog, categories, search, shopping cart, and quick order checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

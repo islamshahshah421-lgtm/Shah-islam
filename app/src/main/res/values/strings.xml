@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dukaan</string>
+    <string name="cart">Cart</string>
+    <string name="categories">Categories</string>
+    <string name="orders">Orders</string>
+    <string name="search_hint">Search products, brands…</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="checkout">Proceed to Checkout</string>
+    <string name="empty_cart">Your Cart is Empty</string>
+    <string name="empty_cart_subtitle">Explore our catalog and find items you love!</string>
+    <string name="order_placed_title">Order Placed Successfully!</string>
+    <string name="order_placed_desc">Thank you for your order. We are preparing your delivery.</string>
+</resources>
